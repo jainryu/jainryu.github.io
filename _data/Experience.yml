@@ -2,19 +2,19 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Intuit - TurboTax
+    role: Software Engineer II
     description:
       - Led development of a new chatbot software utilizing large language model
       - Co-designer of '*Kopilot*' and '*Gemmini*'
     date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+  - title: Intuit - TurboTax
+    role: Software Engineer I
     description: 
       - Built a Java microservice, database schema to manage customer accounts
       - Enhanced internal pipelines to query real-time data from client devices
     date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
+  - title: Intuit
     role: Software Engineer Intern
     description: 
       - Designed the dynamic website using React for data visualization
