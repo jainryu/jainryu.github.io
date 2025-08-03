@@ -2,21 +2,39 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Intuit - TurboTax
+  - title: "[Intuit Assist @ QuickBooks](https://youtu.be/OiODId_I9c4?si=aUSnaKgOsMqD9eOY)"
     role: Software Engineer II
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Intuit - TurboTax
+      - Developing AI-powered, dynamic, and personalized feed experiences for small businesses
+      - Led development of an offline feed ranking pipeline using LLMs, clickstream data, and product priorities. Built with asynchronous and parallel processing and resilient error handling, with results cached for scalability and low-latency
+    date: Apr. 2025 - Ongoing
+  - title: "Intuit Virtual Tax Expert"
+    role: Software Engineer II
+    description:
+      - Engineered a 10K+ TPS microservice to track and persist only user-relevant tax fields, reducing workflow complexity and driving a 20% decrease in customer contact rate; collaborated with 5+ cross-functional teams for integration
+      - Led backend service integration using Spring Boot and Reactor; introduced functional programming principles, establishing code quality standards and improving service reliability
+      - Improved frontend splunk dashboard latency by 93% (38s to 3s for 60-minute searches) by enhancing an orchestrator service to surface nested service logs at the top level, enabling visibility into downstream stack traces
+    date: Aug. 2024 - Apr. 2025
+  - title: "[Intuit Assist @ TurboTax](https://youtu.be/9unfGkSsP4g?si=QvwkfFdDkjFMIK9z)"
     role: Software Engineer I
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Intuit
+      - Contributed to the development of an LLM-powered tax explanation and chat system, tailored to individual forms and scenarios, serving 20M+ users during peak season
+      - Developed an automated pipeline to generate LLM responses for prompt evaluation and fine-tuning, reducing manual effort by 71%; co-filed patent IPR-2413220US CrowdSourcing-Tax Data Generation & Evaluation
+      - Built testing capability to simulate returning user accounts, enabling early feature validation across a broader user base
+    date: Jan. 2023 - Jul. 2024
+  - title: "[Intuit TurboTax Player](https://player-ui.github.io)"
     role: Software Engineer Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Identified and resolved bugs in the company’s internal cross-platform UI framework
+      - Implemented a flame graph in the DevTools panel to visualize and analyze hook resolution times, with support for time-range profiling using start/stop controls
+    date: May. 2022 - Aug. 2022
+  - title: "[Korem Lab, Columbia University](https://www.koremlab.science/)"
+    role: Student Researcher
+    description: 
+      - Designed deep neural network architecture to solve identification and functional annotation task for sRNAs
+    date: Jan. 2022 - May. 2022
+  - title: "[Enkorwithus](https://stay.enko.kr/)"
+    role: Software Engineer Intern
+    description: 
+      - Independently drove the frontend architecture and implementation of a multi-service mobile app using Flutter, collaborating with backend and design teams to deliver a cohesive initial release
+    date: May. 2021 - Aug. 2021

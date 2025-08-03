@@ -1,4 +1,4 @@
-title: Title of your CV site
+title: Jain Ryu's Website
 profile_img: /assets/img/profilepic.webp
 icon_img: /assets/img/icon.webp
 
@@ -8,13 +8,8 @@ job: "Software Engineer"
 phone_number: 619-861-9978
 address: San Diego, CA, USA
 email: jainryu0929@gmail.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+linkedin_username: "jain-ryu"
+github_username: jainryu
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
