@@ -7,6 +7,7 @@ contents:
     description:
       - Developing AI-powered, dynamic, and personalized feed experiences for small businesses
       - Led development of an offline feed ranking pipeline using LLMs, clickstream data, and product priorities. Built with asynchronous and parallel processing and resilient error handling, with results cached for scalability and low-latency
+      - "Primary TechStack: Python, "
     date: Apr. 2025 - Ongoing
   - title: "Intuit Virtual Tax Expert"
     role: Software Engineer II
