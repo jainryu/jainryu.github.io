@@ -15,6 +15,7 @@ contents:
       - Engineered a 10K+ TPS microservice to track and persist only user-relevant tax fields, reducing workflow complexity and driving a 20% decrease in customer contact rate; collaborated with 5+ cross-functional teams for integration
       - Led backend service integration using Spring Boot and Reactor; introduced functional programming principles, establishing code quality standards and improving service reliability
       - Improved frontend splunk dashboard latency by 93% (38s to 3s for 60-minute searches) by enhancing an orchestrator service to surface nested service logs at the top level, enabling visibility into downstream stack traces
+    image: "![](/assets/img/vte.png)"
     date: Aug. 2024 - Apr. 2025
   - title: "[Intuit Assist @ TurboTax](https://youtu.be/9unfGkSsP4g?si=QvwkfFdDkjFMIK9z)"
     role: Software Engineer I
