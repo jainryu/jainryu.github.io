@@ -7,7 +7,7 @@ contents:
     description:
       - Developing AI-powered, dynamic, and personalized feed experiences for small businesses
       - Led development of an offline feed ranking pipeline using LLMs, clickstream data, and product priorities. Built with asynchronous and parallel processing and resilient error handling, with results cached for scalability and low-latency
-      - "Primary TechStack: Python, "
+      - "Primary TechStack: Python, FastAPI, React, TypeScript, AWS"
     date: Apr. 2025 - Ongoing
   - title: "Intuit Virtual Tax Expert"
     role: Software Engineer II
@@ -15,6 +15,7 @@ contents:
       - Engineered a 10K+ TPS microservice to track and persist only user-relevant tax fields, reducing workflow complexity and driving a 20% decrease in customer contact rate; collaborated with 5+ cross-functional teams for integration
       - Led backend service integration using Spring Boot and Reactor; introduced functional programming principles, establishing code quality standards and improving service reliability
       - Improved frontend splunk dashboard latency by 93% (38s to 3s for 60-minute searches) by enhancing an orchestrator service to surface nested service logs at the top level, enabling visibility into downstream stack traces
+      - "Primary TechStack: Kotlin, Java, Spring Boot"
     image: "![](/assets/img/vte.png)"
     date: Aug. 2024 - Apr. 2025
   - title: "[Intuit Assist @ TurboTax](https://youtu.be/9unfGkSsP4g?si=QvwkfFdDkjFMIK9z)"
@@ -23,6 +24,7 @@ contents:
       - Contributed to the development of an LLM-powered tax explanation and chat system, tailored to individual forms and scenarios, serving 20M+ users during peak season
       - Developed an automated pipeline to generate LLM responses for prompt evaluation and fine-tuning, reducing manual effort by 71%; co-filed patent IPR-2413220US CrowdSourcing-Tax Data Generation & Evaluation
       - Built testing capability to simulate returning user accounts, enabling early feature validation across a broader user base
+      - "Primary TechStack: Kotlin, Java, Spring Boot"
     date: Jan. 2023 - Jul. 2024
   - title: "[Intuit TurboTax Player](https://player-ui.github.io)"
     role: Software Engineer Intern
